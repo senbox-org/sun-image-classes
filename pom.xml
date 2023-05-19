@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.sun</groupId>
+    <groupId>eu.esa.snap</groupId>
     <artifactId>sun-image-classes</artifactId>
     <name>Old SUN image classes</name>
     <description>Contains old classes needed by JAI but not contained anymore in curren JDK version.</description>
